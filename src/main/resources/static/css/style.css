@@ -58,14 +58,6 @@ body {
     text-align: center; /* 내부 콘텐츠 중앙 정렬 */
 }
 
-#maze-container {
-    display: grid;
-    gap: 2px;
-    margin: 20px auto;
-    width: 320px;
-    height: 320px;
-}
-
 button {
     margin-top: 10px;
     padding: 10px 20px;
